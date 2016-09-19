@@ -14,4 +14,4 @@ Second Header | Content from cell 2
 |**creator**| [Txuritan] (https://github.com/Txuritan) | 
 |**System** | XXX                                      |
 |**Moons**  | XXX
-|**Orbital period | XXX
+|**Orbital period** | XXX
