@@ -18,4 +18,8 @@ Sovereign state | XXX
 Curencey | Cobalt <br /> Bronze <br /> Steel <br /> Amethyst <br /> Sapphire
 Population | XXX
 
+As I said:
+> We're living the future so
+> the present is our past.
+
 
