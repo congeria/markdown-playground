@@ -7,3 +7,5 @@ Sovereign state | King n Queen, Prime Minister
 Government | XXX
 Spoken languges | XXX
 Population | XXX
+Cities | Steelpoint <br/> Coulron
+Basic information | XXX
