@@ -11,7 +11,7 @@ Native races |  Humans <br /> Canines: Cuain (dogs), Zeeva (wolves), Shuala (fox
 Native language | XXX
 Animals | XXX
 Plants | XXX
-Cities | Steelpoint, Coulron
+Cities | Steelpoint <br/> Coulron
 Realms | Tigaga 
 Government | XXX
 Sovereign state | XXX
