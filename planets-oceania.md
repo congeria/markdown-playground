@@ -15,6 +15,7 @@ Cities | Steelpoint / Coulron
 Realms | Tigaga 
 Government | XXX
 Sovereign state | XXX
+Curencey | Cobalt <br /> Steel <br /> Bronze <br /> Sapphire <br /> Amethyst
 Population | XXX
 
 
