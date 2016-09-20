@@ -18,6 +18,7 @@ Sovereign state | XXX
 Population | XXX
 
 Box 1        | 
--------------|-------------
+-------------|---------------------------------------
 Creator      [Txuritan] (https://github.com/Txuritan) |
+
 
