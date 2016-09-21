@@ -1,5 +1,6 @@
 Mayshin  | Information
 ---------|-------------
+Creator | [FictionSmith] (https://github.com/FictionSmith)
 Nickname | Mayshin
 Age | 21
 Race | Feline
