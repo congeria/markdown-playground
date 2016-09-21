@@ -4,6 +4,7 @@ Creator | [Txuritan] (https://github.com/Txuritan)
 Nickname | Rii
 Age | 17
 Race | Human
+Race | Human
 Gender | Female
 Height | 5ft 4in 
 Occupation | Beta (of the wolf pack)
