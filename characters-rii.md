@@ -1,5 +1,6 @@
 Rii      | Information
 ---------|-------------
+Creator | [Txuritan] (https://github.com/Txuritan)
 Nickname | Rii
 Age | 17
 Race | Human
