@@ -8,4 +8,4 @@ Government | XXX
 Spoken languges | XXX
 Population | XXX
 Cities | Steelpoint <br/> Coulron
-Basic information | XXX
+Basic information | Mostly inhabited by humans and many <br/> other races. Tigaga is the <br/> central hub of the planet Oceania.
