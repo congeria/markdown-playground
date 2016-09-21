@@ -2,6 +2,7 @@ Rii      | Information
 ---------|-------------
 Nickname | Rii
 Age | 17
+Race | Human
 Gender | Female
 Height | 5ft 4in 
 Occupation | Beta (of the wolf pack)
