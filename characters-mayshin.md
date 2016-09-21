@@ -2,6 +2,7 @@ Mayshin  | Information
 ---------|-------------
 Nickname | Mayshin
 Age | 21
+Race | Feline
 Gender | Male
 Height | 4ft 2in
 Occupation | College student of Northwind University
