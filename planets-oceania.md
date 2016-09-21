@@ -13,8 +13,6 @@ Animals | XXX
 Plants | XXX
 Cities | Steelpoint <br/> Coulron
 Realms | [Tigaga] (https://github.com/congeria/markdown-playground/blob/gh-pages/realms-tigaga.md)
-Government | XXX
-Sovereign state | XXX
 Curencey | Cobalt <br /> Bronze <br /> Steel <br /> Amethyst <br /> Sapphire
 Population | XXX
 
