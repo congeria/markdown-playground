@@ -16,7 +16,7 @@ Realms | [Tigaga] (https://github.com/congeria/markdown-playground/blob/gh-pages
 Sovereign state | King <br/> Queen <br/> Prime Minister 
 Government | XXX
 Curencey | Cobalt <br /> Bronze <br /> Steel <br /> Amethyst <br /> Sapphire
-Population | XXX
+Population | XXX 
 
 
 
