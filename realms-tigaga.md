@@ -1,4 +1,4 @@
-Tigaga        | Information
+Tigaga        | [IMAGE]
 --------------|--------------
 Creator       | [Txuritan] (https://github.com/Txuritan)
 Geograhical location | XXX
