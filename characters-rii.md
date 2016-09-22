@@ -1,4 +1,4 @@
-Rii      | Information
+Rii      | [IMAGE]
 ---------|-------------
 Creator | [Txuritan] (https://github.com/Txuritan)
 Nickname | Rii
