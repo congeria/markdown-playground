@@ -7,7 +7,7 @@ Orbital period | XXX
 Atmosphere | XXX
 Climate | Tropical and subtropical
 Descriptive terrain | Sandy beaches, crystal cyan seas, thick rainforest, <br/> lots of uncharted islands and the main island known as [Tigaga.] (https://github.com/congeria/markdown-playground/blob/gh-pages/realms-tigaga.md)
-Native races |  Humans <br /> Canines: Cuain (dogs), Zeeva (wolves), Shuala (foxes) <br /> [Felines:] (https://github.com/congeria/markdown-playground/blob/gh-pages/races-felines.md) Syv (cats), Felinus (tigers), Pantaleon (lions)  
+Native races |  [Humans] (https://github.com/congeria/markdown-playground/blob/gh-pages/races-humans.md) <br /> Canines: Cuain (dogs), Zeeva (wolves), Shuala (foxes) <br /> [Felines:] (https://github.com/congeria/markdown-playground/blob/gh-pages/races-felines.md) Syv (cats), Felinus (tigers), Pantaleon (lions)  
 Native language | XXX
 Animals | XXX
 Plants | XXX
