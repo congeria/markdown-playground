@@ -1,4 +1,4 @@
-Mayshin  | Information
+Mayshin  | [IMAGE]
 ---------|-------------
 Creator | [FictionSmith] (https://github.com/FictionSmith)
 Nickname | Mayshin
