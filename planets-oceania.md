@@ -1,4 +1,4 @@
-Oceania        | Information            
+Oceania        | [IMAGE]            
 ---------------|---------------
 Creator | [Txuritan] (https://github.com/Txuritan)
 System  | XXX     
