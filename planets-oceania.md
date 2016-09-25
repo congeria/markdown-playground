@@ -15,7 +15,7 @@ Cities | Steelpoint <br/> Coulron
 Realms | [Tigaga] (https://github.com/congeria/markdown-playground/blob/gh-pages/realms-tigaga.md)
 Curencey | Cobalt <br /> Bronze <br /> Steel <br /> Amethyst <br /> Sapphire
 Population | XXX 
-Year | Gregorian 2016 <br/> Tigagan 1869
+
 
 
 
