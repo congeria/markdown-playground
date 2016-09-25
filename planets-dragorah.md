@@ -1,17 +1,16 @@
 Dragorah       | [IMAGE]            
 ---------------|---------------
-Creator | [Txuritan] (https://github.com/Txuritan) & [FictionSmith] (
+Creator | [Txuritan] (https://github.com/Txuritan) <br/> [FictionSmith] (https://github.com/FictionSmith)
 System  | XXX     
 Moons | XXX
 Orbital period | XXX
 Atmosphere | XXX
-Climate | Tropical and subtropical
-Descriptive terrain | Sandy beaches, crystal cyan seas, thick rainforest, <br/> lots of uncharted islands and the main island known as [Tigaga.] (https://github.com/congeria/markdown-playground/blob/gh-pages/realms-tigaga.md)
-Native races |  [Humans] (https://github.com/congeria/markdown-playground/blob/gh-pages/races-humans.md) <br /> Canines: Cuain (dogs), Zeeva (wolves), Shuala (foxes) <br /> [Felines:] (https://github.com/congeria/markdown-playground/blob/gh-pages/races-felines.md) Syv (cats), Felinus (tigers), Pantaleon (lions)  
+Climate | Continental <br/> Volcanic tundra 
+Descriptive terrain | Mostly covered in lava and volcanic springs, mountains, rivers, small pockets of fresh water and very few remaining forest.
+Native races | [Humans] (https://github.com/congeria/markdown-playground/blob/gh-pages/races-humans.md) 
 Native language | XXX
 Animals | XXX
 Plants | XXX
-Cities | Steelpoint <br/> Coulron
-Realms | [Tigaga] (https://github.com/congeria/markdown-playground/blob/gh-pages/realms-tigaga.md)
-Curencey | Cobalt <br /> Bronze <br /> Steel <br /> Amethyst <br /> Sapphire
+Cities | XXX
+Realms | XXX
 Population | XXX 
