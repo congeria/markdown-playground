@@ -15,4 +15,4 @@ Cities | XXX
 Realms | XXX
 Currency | XXX
 Population | XXX 
-Year | Gregorian: 2016 <br/> Dragorian: 8532
+
