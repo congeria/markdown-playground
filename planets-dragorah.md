@@ -7,7 +7,7 @@ Orbital period | XXX
 Atmosphere | XXX
 Climate | Continental <br/> Volcanic tundra 
 Descriptive terrain | Mostly covered in lava and volcanic springs, mountains, <br/> rivers, small pockets of fresh water and very few remaining forest.
-Native races | Dragons: Dragorians (odd mix of any animal and wyvren), [humans] (https://github.com/congeria/markdown-playground/blob/gh-pages/races-humans.md) dark-elves
+Native races | Dragons: Dragorians (odd mix of any animal and wyvren), <br/> [humans,] (https://github.com/congeria/markdown-playground/blob/gh-pages/races-humans.md) <br/> dark-elves
 Native language | XXX
 Animals | XXX
 Plants | XXX
