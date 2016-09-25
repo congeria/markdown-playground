@@ -13,4 +13,5 @@ Animals | XXX
 Plants | XXX
 Cities | XXX
 Realms | XXX
+Currency | XXX
 Population | XXX 
