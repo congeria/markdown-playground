@@ -1,4 +1,4 @@
-Pheonix        | [IMAGE]            
+Pheonixus      | [IMAGE]            
 ---------------|---------------
 Creator | FictionSmith
 System  | XXX     
