@@ -1,6 +1,6 @@
 Neko World     | [IMAGE]            
 ---------------|---------------
-Creator | [Txuritan] https://github.com/Txuritan
+Creator | [Txuritan] (https://github.com/Txuritan)
 System  | XXX     
 Moons | XXX
 Orbital period | XXX
