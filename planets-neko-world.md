@@ -5,7 +5,7 @@ System  | XXX
 Moons | XXX
 Orbital period | XXX
 Atmosphere | XXX
-Climate | XXX
+Climate | Arid
 Descriptive terrain | XXX
 Native races | XXX
 Native language | XXX
