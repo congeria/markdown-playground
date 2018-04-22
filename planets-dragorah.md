@@ -1,6 +1,6 @@
 Dragorah       | [IMAGE]            
 ---------------|---------------
-Creator | [Txuritan] (https://github.com/Txuritan) <br/> [FictionSmith] (https://github.com/FictionSmith)
+Creator | ![Txuritan](https://github.com/Txuritan)
 System  | XXX     
 Moons | XXX
 Orbital period | XXX
@@ -11,7 +11,7 @@ Native races | Dragons: Dragorians (odd mix of any animal and wyvren) <br/> [Hum
 Native language | XXX
 Animals | XXX
 Plants | XXX
-Cities | XXX
+Cities | ![kalcif](https://)
 Realms | XXX
 Currency | XXX
 Population | XXX 
